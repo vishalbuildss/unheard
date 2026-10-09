@@ -1,0 +1,4 @@
+# Words that are blocked in usernames and masked in chat. One per line, lowercase.
+# Lines starting with # are ignored. Words shorter than 3 characters are ignored.
+# Matching ignores case, spaces, dots and simple number swaps (4 for a, 0 for o, and so on).
+# Add your own list here. It is empty on purpose so you decide what your community allows.
